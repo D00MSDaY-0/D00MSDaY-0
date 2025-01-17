@@ -1,16 +1,14 @@
 <h2 align="center">Ciao! The name's D00M 👽</h2> 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img alt="Coding" src="./assets/Untitled.jpeg" align="center"/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="left">$~: Who am i? </h3>
+<h3 align="left">$~: Who am i? 👩🏻‍💻</h3>
 <img src="./assets/pc.gif" width="300px" align="right">
 
 <div align="left">
   <p>
-    I'm a student 🎓, currently on my 3rd year. 
-    Although I study Computer engineering, one day i'd like to work as a pentester, since that is my true passion: break down things to understand them      so i can make them better.
-    C'mon, isn't that what's supposed to do an engineer 👺? No? Oh...
+    I'm a computer engineering student 🎓. One day i'd like to work as a pentester, since that is my true passion: break down things so i can understand them and make them     better. C'mon, isn't      that what's supposed to do an engineer 👺? No? Oh...
   </p>
 <br>
   <p>
@@ -18,11 +16,11 @@
   </p>
 <br>
   <p>
-    On my spare time i enjoy learning new languages, drawing, reading, going out on hikes or stuff like that, i'm a big fan of nature, coffee and misty      forests too. 
+    On my spare time i enjoy learning new languages, drawing, reading, going out on hikes 🌲 or stuff like that, i'm a big fan of nature, coffee ☕ and misty forests too. 
   </p>
 <br>
   <p>
-    Currently i'm developing myself on the cybersecurity field, completing courses and doing roadmaps to achive my goals. Besides from that, ì'm             developing projects at my uni. And that's it for now! 
+    Currently i'm developing myself on the cybersecurity field 🥷🏻, completing courses and doing roadmaps to achive my goals. Besides from that, ì'm developing projects at my uni. And that's it for now! 
   </p>
 </div>
   
